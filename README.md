@@ -8,7 +8,6 @@ These days I work AI-first: Claude Code is part of my daily workflow for buildin
 
 **Here:**
 - [social-video-autopublisher](https://github.com/antoniom55/social-video-autopublisher) — Python pipeline that renders a video every morning and publishes it to Instagram, Facebook and YouTube.
-- [woocommerce-store-enhancements](https://github.com/antoniom55/woocommerce-store-enhancements) — small must-use plugins for WooCommerce: complete product schema, stock-aware swatches, back-in-stock alerts, WhatsApp ordering.
 - [getonbrd-job-radar](https://github.com/antoniom55/getonbrd-job-radar) — script that filters a job board's API down to the jobs worth applying to.
 
 Based in Venezuela, working remotely with clients in the U.S., Mexico and Portugal. Spanish native, English for daily written work.
